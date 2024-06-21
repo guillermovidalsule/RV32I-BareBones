@@ -1,4 +1,4 @@
-# RISC-V 32-bit barebones (RV32I)
+# RISC-V 32-bit BareBones (RV32I)
 
 ## Introduction
 
