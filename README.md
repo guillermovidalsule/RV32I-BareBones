@@ -25,7 +25,7 @@ qemu-system-riscv32 -machine virt -bios none -kernel kernel.elf -serial mon:stdi
 
 ## Further Information
 
-The compilation commands used in the linked tutorials are not usable for this project. This are the modifications:
+I modified the compilation commands used in the tutorials. These are the modifications:
 
 - *-lgcc* was removed as it produced errors in the linking process.
 - *entry.o* was removed because STARTUP(entry.o) was added to the linker script.
